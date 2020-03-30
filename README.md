@@ -1,12 +1,12 @@
 <h1>Marie og Kristoffer Bryllup web-site.</h1>
 
-Installerer git til windows -- https://gitforwindows.org/
+Installerer git til windows - https://gitforwindows.org/
 
-åben command line i windows -- windowsKey og skriv "cmd".
+åben command line i windows - windowsKey og skriv "cmd".
 
-Check git er installeret -- skriv "git --version" - kommer der et version nummer?
+Check git er installeret - skriv "git --version" - kommer der et version nummer?
 
-Hent projekt -- skriv "git clone git@github.com:Yipsix/Yipsix.github.io.git"
+Hent projekt - skriv "git clone git@github.com:Yipsix/Yipsix.github.io.git"
 
 Du har nu projektet liggende på din computer under C:\Users\Marie\Yipsix.github.io
 
