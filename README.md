@@ -18,11 +18,11 @@ Når du skal opdatere hjemmesiden igen med dine ændringer. Heldigvis kun først
 
 Åben en command-line i den mappe projektet ligger. Skriv:
 
-"git add ."
+git add .       (husk punktum)
 
-"git commit -m "marie opdatering"
+git commit -m "marie opdatering"
 
-"git push" eller "git push --force", hvis den første ikke virker.
+git push eller git push --force, hvis den første ikke virker.
 
 git vil derefter spørge om dit login osv. Kan ikke huske præcis hvad den siger, men prøv dig frem.
 
