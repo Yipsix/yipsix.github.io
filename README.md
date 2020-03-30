@@ -24,6 +24,6 @@ git commit -m "marie opdatering"
 
 git push eller git push --force, hvis den første ikke virker.
 
-git vil derefter spørge om dit login osv. Kan ikke huske præcis hvad den siger, men prøv dig frem.
+Derefter vil git spørge om dit login osv. Kan ikke huske præcis hvad den siger, men prøv dig frem.
 
 Ellers ring :)
