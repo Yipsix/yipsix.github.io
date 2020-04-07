@@ -21,11 +21,30 @@
 /* 1. Theme default css */
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
 body {
-  font-family: "Petit Formal Script", cursive;
+  font-family: "SackersGothicStd-Medium";
   font-weight: normal;
   font-style: normal;
   overflow-x: hidden;
 }
+
+.img-container{
+    background-image: url(banner-min.png);
+    height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.inner-container{
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  color: white;
+  height: auto;
+  margin-top: 200px;
+}
+
 
 /* line 15, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
 .img {
@@ -74,18 +93,21 @@ button {
 }
 
 /* line 44, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
-h1, h2, h3, h4, h5 {
-  font-family: "Petit Formal Script", cursive;
+h1 {
+  font-family: "OPTIVanityFair-CondeNast";
   color: #1F1F1F;
 }
 
+h2{
+  font-family: "SackersGothicStd-Medium";
+  color: #1F1F1F;
+}
+
+
+
 /* line 48, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
 h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
+h2 b,
   color: inherit;
 }
 
@@ -2368,10 +2390,7 @@ h6 {
 /* line 117, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_elements.scss */
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+ {
   line-height: 1.2em;
 }
 
