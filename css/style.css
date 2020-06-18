@@ -93,21 +93,21 @@ button {
 }
 
 /* line 44, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
-h1 {
-  font-family: "OPTIVanityFair-CondeNast";
+
+h2{
+  font-family: "SackersGothicStd-Medium.otf";
   color: #1F1F1F;
 }
 
-h2{
-  font-family: "SackersGothicStd-Medium";
-  color: #1F1F1F;
+h3 {
+  
 }
 
 
 
 /* line 48, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
 h1 a,
-h2 b,
+h2 b {
   color: inherit;
 }
 
@@ -264,7 +264,7 @@ h3 {
   width: 100%;
   height: 100%;
   z-index: -1;
-  opacity: 0.2;
+  opacity: 0.1;
 }
 
 /* line 181, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
@@ -1005,7 +1005,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner-min.png);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
@@ -1280,7 +1280,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
 .counter_bg {
-  background-image: url(../img/counter_bg/counter_bg.png);
+  background-color: #5D5C5C; 
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
@@ -2068,7 +2068,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_bradcam.scss */
 .bradcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/kontakt/top-billede.png);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_bradcam.scss */
@@ -2358,8 +2358,17 @@ del {
 }
 
 /* line 93, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_elements.scss */
+
+.martieh1 {
+  font-size: 36px;
+  font-family: "fonts/OPTIVanityFair-CondeNast.otf4";
+  color: #1F1F1F;
+
+}
 h1 {
   font-size: 36px;
+  font-family: "OPTIVanityFair-CondeNast.otf4";
+  color: #1F1F1F;
 }
 
 /* line 97, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_elements.scss */
