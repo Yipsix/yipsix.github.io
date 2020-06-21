@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Muli:300,400,400i,600,600i,700,700i,800,800i,900|Petit+Formal+Script&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Muli:300,400,400i,600,600i,700,700i,800,800i,900|Petit+Formal+Script&display=swap");
+
+
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_extend.scss */
 .flex-center-start {
   display: -webkit-box;
@@ -758,18 +760,10 @@ h3 {
     padding: 0 50px;
   }
 }
-
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   /* line 30, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo-img img {
-    width: 120px;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* line 30, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_header.scss */
-  .header-area .main-header-area .logo-img img {
-    width: 120px;
+  .logo-img {
+    width: 70px;
   }
 }
 
@@ -1280,7 +1274,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
 .counter_bg {
-  background-color: #5D5C5C; 
+  background-color: #a35b21; 
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
